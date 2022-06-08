@@ -12,6 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<br><br>
 <%
 		String idx = request.getParameter("idx");
 
