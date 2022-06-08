@@ -12,6 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+            <br><br><br>
 	Statement =  실행기 준비 -> 만들어진 쿼리 담아서 실행<br>
 	PreparedStatement = 실행기 준비+쿼리 미리 담기 -> 쿼리에 들어갈 값만 후 세팅 후 실행<br><br>
 	
